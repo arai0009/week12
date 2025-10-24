@@ -11,7 +11,7 @@
         placeholder="Enter city name"
         class="search-input"
       />
-      <button @click="fetchWeatherrByCity" class="search-button">
+      <button @click="fetchWeatherByCity" class="search-button">
         Search
       </button>
     </div>
